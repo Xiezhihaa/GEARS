@@ -10,5 +10,5 @@ __pycache__/
 .ipynb_checkpoints/
 # data + trained models are hosted externally (see README) — never commit them
 GEARS_data_upload/
-data/
+/data/
 server_mousebrain/
